@@ -76,5 +76,4 @@ $(document).on('click','#btnorder',function(e){
 
 });
 };
-
 $(document).ready(main);
