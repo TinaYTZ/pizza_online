@@ -1,0 +1,20 @@
+{
+  "name": "pizze_online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "chai": "^4.1.2",
+    "express": "^4.15.2",
+    "http": "0.0.0",
+    "mocha": "^5.0.0",
+"mongodb": "^2.2.33"  ,
+  "request": "^2.81.0"
+  }
+}
